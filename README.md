@@ -2,7 +2,7 @@
 
 Moonlit Journal is a dreamy AI-powered journaling app that turns personal reflections into visual mood insights.
 
-Users can write journal entries, receive a sentiment-based mood result, track mood patterns over time, explore recurring words, filter journal history by mood, and download their journal data — all inside a soft pastel Streamlit interface.
+Users can write journal entries, receive a sentiment-based mood result, track mood patterns over time, explore recurring words, filter journal history by mood, and download their journal data — all inside a Streamlit interface.
 
 ---
 
