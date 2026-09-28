@@ -20,29 +20,29 @@ Users can write freely using the daily reflection prompt as inspiration.
 
 ![Writing an Entry](images/journal_home_written.png)
 
-### Mood Result
+### Neutral Mood Result
 
 After saving an entry, the app analyzes the text and maps it to a mood category.
 
-![Neutral Mood Result](images/journal_neutral_result.png)
+![Neutral Mood Result](images/journal_mood_neutral.png)
 
-### Mood Analysis
+### Neutral Mood Analysis
 
 Each entry generates a mood score, sentiment score, and emotional intensity value.
 
 ![Neutral Mood Analysis](images/journal_neutral_analysis.png)
 
-### Happy Entry Example
-
-The same journal flow can capture different emotional tones.
-
-![Happy Journal Entry](images/journal_happy_written.png)
-
 ### Happy Mood Result
 
 Positive entries are reflected visually through the mood card and score.
 
-![Happy Mood Result](images/journal_happy_result.png)
+![Happy Mood Result](images/journal_mood_happy.png)
+
+### Happy Mood Analysis
+
+The mood garden updates as more entries are added.
+
+![Happy Mood Analysis](images/journal_happy_analysis.png)
 
 ### Mood Garden & Visualizations
 
